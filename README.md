@@ -1,5 +1,4 @@
 # Lady---Hear-Me-Tonight
-This code will be the lyrics to "Lady - Hear Me Tonight"
 Lady, hear me tonight
 'Cause my feeling is just so right
 As we dance by the moonlight
